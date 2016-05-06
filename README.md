@@ -23,7 +23,7 @@ Example:
 - 1: The histogram of in-degrees and out-degrees of Dyad Independence Network
 - 2: The histogram of in-degrees and out-degrees of Stochastic Block Network
 - 3: The histogram of in-degrees and out-degrees of Power-law Distribution Network
-- 4：The time series and histogram of responses 
+- 4: The time series and histogram of responses 
 
 
 ```
