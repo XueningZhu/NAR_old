@@ -2,7 +2,7 @@ Name of QuantLet: NAR
 
 Published in: Annals of Statistics (under review)
 
-Description: Generates the network structure, simulate the reponses, and fit the NAR model.
+Description: Generate the network structure, simulate the reponses, and fit the NAR model.
 
 Keywords: Network Analysis, Vector Autoregression, Adjacency Matrix
 
