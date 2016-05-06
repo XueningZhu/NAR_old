@@ -1,18 +1,19 @@
 Name of QuantLet: NAR
 
-Published in: Applied Multivariate Statistical Analysis
+Published in: Annals of Statistics (under review)
 
-Description: Generates a data set and applies the sliced inverse regression algorithm (SIR) for dimension reduction.
+Description: Generates the network structure, simulate the reponses, and fit the NAR model.
 
-Keywords: EDR-directions, dimension-reduction, estimation, SIR, regression, 3D, plot, graphical representation
+Keywords: Network Analysis, Vector Autoregression, Adjacency Matrix
 
-See also: MVAppsib, MVAsimdep1, MVAsir2data, MVAsimdepex, MVAppexample, ppsib, ppsibexample
+See also: TENER_Linear, TENET_SIFIs, TENET_SIM, TENET_VaR_CoVaR, TENET_group_network
 
-Author: Zografia Anastasiadou
+Author: Xuening Zhu
 
-Submitted: Fri, August 05 2011 by Awdesch Melzer
+Submitted: Fri, May 06 2015 by Xuening Zhu
 
 Example: 
-- 1: The left plots show the response versus the estimated effective dimension reduction directions (EDR-directions). The upper right plot is a three-dimensional plot of the first two directions and the response.  The lower right plot shows the eigenvalues (*) and the cumulative sum (o).
-- 2: Plot of the true response versus the first true index. The monotonic and the convex shapes can be clearly seen.
-- 3: Plot of the true response versus the second true index. The monotonic and the convex shapes can be clearly seen.
+- 1: The histogram of in-degrees and out-degrees of Dyad Independence Network
+- 2: The histogram of in-degrees and out-degrees of Stochastic Block Network
+- 3: The histogram of in-degrees and out-degrees of Power-law Distribution Network
+- 4：The time series and histogram of responses 
